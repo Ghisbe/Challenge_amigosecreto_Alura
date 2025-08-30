@@ -14,11 +14,11 @@
 
 3- Repetí el paso anterior hasta tener a todos los amigos en la lista. 
 
-<img width="1152" height="850" alt="amigo3" src="https://github.com/user-attachments/assets/006495c2-bca3-45a6-bbe7-769b0332ec69" />
+<img width="1152" height="772" alt="amigo3" src="https://github.com/user-attachments/assets/006495c2-bca3-45a6-bbe7-769b0332ec69" />
 
 4 - La aplicación elegirá automáticamente un nombre al azar y mostrará el siguiente mensaje:
 
-<img width="1152" height="875" alt="amigo4" src="https://github.com/user-attachments/assets/a244b398-92cf-4c24-b98b-d868d7be8e0c" />
+<img width="1152" height="772" alt="amigo4" src="https://github.com/user-attachments/assets/a244b398-92cf-4c24-b98b-d868d7be8e0c" />
 
 ### Instalación y ejecución
 Este repositorio no necesita instalación de librerías ni dependencias:  es un proyecto hecho solo con **HTML, CSS y JavaScript puro**.  
