@@ -25,10 +25,11 @@ Este repositorio no necesita instalación de librerías ni dependencias:  es un 
 Podés abrirlo directamente en tu navegador o usar **Live Server** en Visual Studio Code para verlo de forma más cómoda.
 
 1. Descargá o cloná este repositorio en tu computadora:
-   ```git clone https://github.com/Ghisbe/Challenge_amigosecreto_Alura.git```
-2. Abrí la carpeta del proyecto en Visual Studio Code.
-3. Dentro de VS Code, abrí el archivo index.html.
-4. Si tenés instalada la extensión Live Server:
+   ```git clone```
+   ```https://github.com/Ghisbe/Challenge_amigosecreto_Alura.git```
+3. Abrí la carpeta del proyecto en Visual Studio Code.
+4. Dentro de VS Code, abrí el archivo index.html.
+5. Si tenés instalada la extensión Live Server:
 - Hacé clic derecho en index.html → "Open with Live Server".
 - Se abrirá automáticamente en tu navegador.
 - Si no usás Live Server, simplemente hacé doble clic en el archivo index.html y se abrirá en tu navegador.
