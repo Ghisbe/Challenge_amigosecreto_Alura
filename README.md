@@ -33,3 +33,8 @@ Podés abrirlo directamente en tu navegador o usar **Live Server** en Visual Stu
 - Se abrirá automáticamente en tu navegador.
 - Si no usás Live Server, simplemente hacé doble clic en el archivo index.html y se abrirá en tu navegador.
 5. ¡Listo! 🎉 Ya podés empezar a ingresar nombres y sortear tu Amigo Secreto.
+
+### Proyecto realizado con:
+- HTML: Para la estructura de la página.
+- CSS: Para la aplicación de los estilos.
+- JavaScript: Para la lógica de esta aplicación.
